@@ -1,0 +1,12 @@
+server:
+ port: 8888
+ type: debug
+
+datasource:
+ driverName: mysql
+ host: 192.168.1.11
+ port: 3306
+ database: k8sapi
+ username: root
+ password: 123456
+ charset: utf8

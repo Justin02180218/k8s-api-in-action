@@ -4,6 +4,7 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 在使用 Kubernetes REST API 编写应用程序时，我们不需要自己实现http rest api接口的请求及传输数据的编解码，可以使用Kubernetes官方提供的客户端库来实现。  本系列就是使用kubernetes官方开源的客户端client-go调用Api Server的接口来部署微服务。
 
 本系列分为以下几篇文章：
+
 一，kubernetes原生api部署微服务-构建微服务
 使用gin框架搭建简单的博客系统，包含2个简单的微服务。
 

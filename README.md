@@ -9,23 +9,23 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 
 一，[kubernetes原生api部署微服务-构建微服务](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484399&idx=1&sn=70e07602e526f053409f75bd4d53e62a&chksm=cfc2ae8cf8b5279adb28f20635d60418e054b968966f450ed358641b111571257f2079a2c53e&token=1595797558&lang=zh_CN#rd)  
 
-&nbsp;&nbsp;使用gin框架搭建简单的博客系统，包含2个简单的微服务。
+&nbsp;&nbsp;&nbsp;&nbsp;使用gin框架搭建简单的博客系统，包含2个简单的微服务。
 
 二，kubernetes原生api部署微服务-创建Namespace、Deployment、Service
 
-创建Namespace，Deplement，service，测试扩缩容及滚动升级
+&nbsp;&nbsp;&nbsp;&nbsp;创建Namespace，Deplement，service，测试扩缩容及滚动升级
 
 三，kubernetes原生api部署微服务-创建Configmap
 
-创建configmap来存储微服务的配置信息
+&nbsp;&nbsp;&nbsp;&nbsp;创建configmap来存储微服务的配置信息
 
 四，kubernetes原生api部署微服务-创建Ingress
 
-创建ingress，在kubernetes集群外部访问微服务。
+&nbsp;&nbsp;&nbsp;&nbsp;创建ingress，在kubernetes集群外部访问微服务。
 
 五，kubernetes原生api部署微服务-监听Pod
 
-创建informer来监听pod的创建、修改及删除。
+&nbsp;&nbsp;&nbsp;&nbsp;创建informer来监听pod的创建、修改及删除。
 
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊

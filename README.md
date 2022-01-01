@@ -26,3 +26,8 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 五，kubernetes原生api部署微服务-监听Pod
 
 创建informer来监听pod的创建、修改及删除。
+
+
+### 代码详解，请关注微信公众号：coding到灯火阑珊
+
+![Image](https://github.com/Justin02180218/distribute-election-bully/blob/master/qrcode_for_gh_8a5b7b90c100_258.jpg)

@@ -12,7 +12,7 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 &nbsp;&nbsp;&nbsp;&nbsp;使用gin框架搭建简单的博客系统，包含2个简单的微服务。
 
 
-二，kubernetes原生api部署微服务-创建Namespace、Deployment、Service
+二，[kubernetes原生api部署微服务-创建Namespace、Deployment、Service](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484417&amp;idx=1&amp;sn=845f28410af56ded006352d20e88539b&amp;chksm=cfc2a962f8b520744f8c18f364e92fcd83e4c2827a4be58d6768c964ff4cdc000b57525a9d7e&token=404066195&lang=zh_CN#rd)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;创建Namespace，Deplement，service，测试扩缩容及滚动升级
 

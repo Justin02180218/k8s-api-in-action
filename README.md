@@ -17,7 +17,7 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 &nbsp;&nbsp;&nbsp;&nbsp;创建Namespace，Deplement，service，测试扩缩容及滚动升级
 
 
-三，kubernetes原生api部署微服务-创建Configmap
+三，[kubernetes原生api部署微服务-创建Configmap](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484425&idx=1&sn=29c6ba7e355744224cf58f65557db061&chksm=cfc2a96af8b5207c6f180847fbcdb5af2506e0a4c235478b4526e17a4d22ac9a194a470d20ff&token=955296363&lang=zh_CN#rd)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;创建configmap来存储微服务的配置信息
 

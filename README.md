@@ -22,7 +22,7 @@ Kubernetes API 是基于HTTP协议的restful编程接口，API支持POST、PUT�
 &nbsp;&nbsp;&nbsp;&nbsp;创建configmap来存储微服务的配置信息
 
 
-四，kubernetes原生api部署微服务-创建Ingress
+四，[kubernetes原生api部署微服务-创建Ingress](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484438&idx=1&sn=25fc7ba57ab076ae816ee0dfc90e318c&chksm=cfc2a975f8b5206378d64db04e253e19290017edb618e127bed3cd5a71a8ccc0efc803ce2225&token=385572812&lang=zh_CN#rd)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;创建ingress，在kubernetes集群外部访问微服务。
 
